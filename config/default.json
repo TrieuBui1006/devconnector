@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://trieubui:Thaothuottha97@cluster0-tsz7a.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "thisismyapi"
+}
