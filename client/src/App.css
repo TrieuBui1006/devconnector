@@ -137,6 +137,7 @@ img {
   margin-right: 0.5rem;
   transition: opacity 0.2s ease-in;
   outline: none;
+  border-radius: 4px;
 }
 
 .badge {
@@ -162,6 +163,7 @@ img {
 .alert-primary {
   background: var(--primary-color);
   color: #fff;
+  border-radius: 4px;
 }
 
 .btn-light,
@@ -170,6 +172,7 @@ img {
 .alert-light {
   background: var(--light-color);
   color: #333;
+  border-radius: 4px;
 }
 
 .btn-dark,
@@ -178,6 +181,7 @@ img {
 .alert-dark {
   background: var(--dark-color);
   color: #fff;
+  border-radius: 4px;
 }
 
 .btn-danger,
@@ -186,6 +190,7 @@ img {
 .alert-danger {
   background: var(--danger-color);
   color: #fff;
+  border-radius: 4px;
 }
 
 .btn-success,
@@ -194,6 +199,7 @@ img {
 .alert-success {
   background: var(--success-color);
   color: #fff;
+  border-radius: 4px;
 }
 
 .btn-white,
@@ -203,6 +209,7 @@ img {
   background: #fff;
   color: #333;
   border: #ccc solid 1px;
+  border-radius: 4px;
 }
 
 .btn:hover {
@@ -212,6 +219,7 @@ img {
 .bg-light,
 .badge-light {
   border: #ccc solid 1px;
+  border-radius: 4px;
 }
 
 .round-img {
@@ -253,9 +261,10 @@ img {
 .form textarea {
   display: block;
   width: 100%;
-  padding: 0.4rem;
+  padding: 0.6rem;
   font-size: 1.2rem;
   border: 1px solid #ccc;
+  border-radius: 4px;
 }
 
 .form input[type='submit'],
