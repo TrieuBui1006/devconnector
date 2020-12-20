@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://trieubui:Thaothuottha97@cluster0-tsz7a.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "thisismyapi",
-  "githubClientId": "637a3107bfbc38c3b717",
-  "githubSecret": "b4fd569d3ada15c37d20441f4ba40eeb35aa4f2d"
-}
